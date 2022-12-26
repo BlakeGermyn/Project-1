@@ -20,14 +20,19 @@
 		  <ul>
 		     <li><a href="#">Sign up</a></li>
 		  </ul> 
-		  <!-- Download button needs to be javascript activated -->
+<!-- End Nav bar -->
+<!-- Download button needs to be javascript activated -->
 		  <button type="button" class="dwnload"><a href="https://www.apple.com/au/app-store/" class="btnlink"></a>Download</button>	  
 	  </div>
 	  <div class="content">
-		  <p class="discription">Get ahead with APX Learning and become the best version of yourself <br>
+		  <p class="description">Get ahead with APX Learning and become the best version of yourself <br>
 		  Over one thousand videos and courses to help you towards your goals.</p><br><br>
 		  <h1>APX Learning - Time to improve!</h1>
-	  </div>
+ <!-- Container for Img --> 
+	      <div class="container">
+			 <div class="circle"> <img src="imges/Layer 0.png" alt="" class="phoneimg"></div>
+              </div>
+	 </div>	  
 	  
 </div>
 </body>
